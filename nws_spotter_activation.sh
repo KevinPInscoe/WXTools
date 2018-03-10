@@ -1,5 +1,10 @@
 #/bin/bash
 
+#
+# Witten my Kevin Inscoe (kevin@inscoe.org) to send email
+# when Skywarn spotter activation is requested
+#
+
 for WFO in MLB MRX
 do
 	echo "HWO statement for $WFO..."
