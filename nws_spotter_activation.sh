@@ -5,6 +5,8 @@
 # when Skywarn spotter activation is requested for the two forecast
 # offices I spend time in: MLB and MRX
 #
+# For more info see https://kevininscoe.com/wiki/index.php/Weather
+#
 
 for WFO in MLB MRX
 do
