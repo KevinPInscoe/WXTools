@@ -1,8 +1,9 @@
 #/bin/bash
 
 #
-# Witten my Kevin Inscoe (kevin@inscoe.org) to send email
-# when Skywarn spotter activation is requested
+# Witten by Kevin Inscoe (kevin@inscoe.org) to send email
+# when Skywarn spotter activation is requested for the two forecast
+# offices I spend time in: MLB and MRX
 #
 
 for WFO in MLB MRX
