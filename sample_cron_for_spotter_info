@@ -1,0 +1,1 @@
+0 12 * * *  nws_spotter_activation.sh | mailx -s "Spotter Information Statement" -r kevin.inscoe@gmail.com kevin.inscoe@gmail.com 2>&1
