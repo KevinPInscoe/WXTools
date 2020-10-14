@@ -121,6 +121,8 @@ def main():
         wfo + \
         '&product=HWO&format=txt&version=1&glossary=0'
 
+    print("\nFor full HWO bulletin for WFO %s click on %s" % (wfo, url))
+
     stmt = get_statement(url, wfo, warnzone)
 
     print(stmt)
